@@ -1,0 +1,1 @@
+import{d as n,c as a,ar as o,o as r}from"./index-c981ff75.js";const m=n({name:"Test",__name:"index",setup(s){function e(){o().then(t=>{})}return e(),(t,c)=>(r(),a("div",null,"test"))}});export{m as default};
